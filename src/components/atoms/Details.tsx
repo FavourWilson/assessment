@@ -1,8 +1,8 @@
 export const Details = [
     {
-        "title": "FirstName"
+        "title": "FullName"
     },
     {
-        "title": "LastName"
+        "title": "Gender"
     }
 ];
