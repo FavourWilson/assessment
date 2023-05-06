@@ -3,7 +3,7 @@ import Addidas from '../../assets/addidas.png'
 const Collection = () => {
   const Arr = [1, 2, 3, 4, 5, 6, 7, 8, 9]
   return (
-      <div className="hidden lg:grid lg:grid-cols-6 max-w-3xl mx-auto lg:py-5 lg:px-4 lg:shadow-md lg:bg-white">
+      <div className="hidden lg:grid lg:grid-cols-6 max-w-3xl mx-auto lg:py-5 lg:px-4 lg:shadow-md lg:bg-white ">
           <div className='cols-span-1 '>
               <img src={Shoe} className='w-[50px] h-[50px] rounded-full' />
       </div>
